@@ -7,4 +7,13 @@ package lista2.ex5;
  * de 5 Threads T1 e, com um laço FOR, inicialize todas as Threads.
  */
 public class Start {
+    public static void main(String[] args){
+        for(int i = 0 ;i<5 ; i++){
+
+
+        }
+
+
+    }
+
 }
